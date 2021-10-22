@@ -39,7 +39,7 @@ def composite_long_graph(save_dir_name: str = 'imgs'):
 def main(save_dir_name: str = 'imgs', zoom_x: int = 3, zoom_y: int = 3):
     """Main function
     """
-    pdf_path = input('Please input the path or pdf document: ')
+    pdf_path = input('Please input the path of pdf document: ')
     pdf2png(pdf_path, save_dir_name, zoom_x, zoom_y)
     composite_long_graph(save_dir_name)
     os.system('pause')
