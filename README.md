@@ -16,6 +16,7 @@ pipenv shell
 pip install requests tqdm
 pip install pyinstaller
 pyinstaller -F -i favicon.ico main.py
+pipenv --rm
 ```
 # Reference
 > [https://pymupdf.readthedocs.io/en/latest/faq.html#how-to-make-images-from-document-pages](https://pymupdf.readthedocs.io/en/latest/faq.html#how-to-make-images-from-document-pages)
