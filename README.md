@@ -1,4 +1,5 @@
 # Introduction
+Convert a pdf document into a long composite picture.
 # Intall
 ```bash
 pip install -r requirements.txt
