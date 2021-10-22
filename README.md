@@ -1,5 +1,5 @@
 # Introduction
-Convert a pdf document to the pictures in png format and combine them into a long picture.
+Convert a pdf document to pictures in png format and combine them into a long picture.
 # Intall
 ```bash
 pip install -r requirements.txt
