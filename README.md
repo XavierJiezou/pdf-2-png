@@ -33,13 +33,13 @@ pipenv --rm
 
 - Fix the bug: Errors will be raised if there are spaces in the PDF file name.
 
-> [Pdf2png-1.0.1-win64.exe](https://github.com/XavierJiezou/pdf-2-png/releases/download/v1.0.1/Pdf2png-1.0.1-win64.exe)
+> Download: [Pdf2png-1.0.1-win64.exe](https://github.com/XavierJiezou/pdf-2-png/releases/download/v1.0.1/Pdf2png-1.0.1-win64.exe)
 
 ### V1.0.0
 
 - Pdf2png: a tool that can convert a pdf document to pictures in png format and combine them into a long picture.
 
-> [Pdf2png-1.0.0-win64.exe](https://github.com/XavierJiezou/pdf-2-png/releases/download/v1.0.0/Pdf2png-1.0.0-win64.exe)
+> Download: [Pdf2png-1.0.0-win64.exe](https://github.com/XavierJiezou/pdf-2-png/releases/download/v1.0.0/Pdf2png-1.0.0-win64.exe)
 
 ## References
 
