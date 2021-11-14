@@ -1,6 +1,6 @@
 # PDF-2-PNG
 
-Convert a pdf document to pictures in png format and combine them into a long picture.
+Convert a `pdf` document to pictures in `png` format and combine them into a long picture.
 
 ## Intall
 ```bash
