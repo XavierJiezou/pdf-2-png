@@ -3,16 +3,21 @@
 Convert a `pdf` document to pictures in `png` format and combine them into a long picture.
 
 ## Intall
+
 ```bash
 pip install -r requirements.txt
 ```
+
 ## Usage
+
 ```bash
 git clone https://github.com/XavierJiezou/pdf-2-png.git
 cd pdf-2-png
 python main.py
 ```
+
 ## Build
+
 ```bash
 pipenv install
 pipenv shell
