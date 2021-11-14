@@ -21,7 +21,7 @@ pip install pyinstaller
 pyinstaller -F -i favicon.ico main.py
 pipenv --rm
 ```
-## Reference
+## References
 
 > - [how-to-make-images-from-document-pages](https://pymupdf.readthedocs.io/en/latest/faq.html#how-to-make-images-from-document-pages)
 > - [PIL.Image.new](https://pillow.readthedocs.io/en/stable/reference/Image.html#PIL.Image.new)
