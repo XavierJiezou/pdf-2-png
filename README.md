@@ -21,6 +21,11 @@ pip install pyinstaller
 pyinstaller -F -i favicon.ico main.py
 pipenv --rm
 ```
+
+## Download
+
+- [Pdf2png-1.0.0-win64.exe](https://github.com/XavierJiezou/pdf-2-png/releases/download/v1.0.0/Pdf2png-1.0.0-win64.exe)
+
 ## References
 
 > - [how-to-make-images-from-document-pages](https://pymupdf.readthedocs.io/en/latest/faq.html#how-to-make-images-from-document-pages)
