@@ -22,7 +22,7 @@ pyinstaller -F -i favicon.ico main.py
 pipenv --rm
 ```
 
-## Download
+## Releases
 
 - [Pdf2png-1.0.0-win64.exe](https://github.com/XavierJiezou/pdf-2-png/releases/download/v1.0.0/Pdf2png-1.0.0-win64.exe)
 
