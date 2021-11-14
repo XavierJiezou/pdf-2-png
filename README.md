@@ -23,5 +23,5 @@ pipenv --rm
 ```
 ## Reference
 
-> - [https://pymupdf.readthedocs.io/en/latest/faq.html#how-to-make-images-from-document-pages](https://pymupdf.readthedocs.io/en/latest/faq.html#how-to-make-images-from-document-pages)
-> - [https://pillow.readthedocs.io/en/stable/reference/Image.html#PIL.Image.new](https://pillow.readthedocs.io/en/stable/reference/Image.html#PIL.Image.new)
+> - [how-to-make-images-from-document-pages](https://pymupdf.readthedocs.io/en/latest/faq.html#how-to-make-images-from-document-pages)
+> - [PIL.Image.new](https://pillow.readthedocs.io/en/stable/reference/Image.html#PIL.Image.new)
